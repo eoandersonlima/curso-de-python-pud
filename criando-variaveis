@@ -1,0 +1,18 @@
+# criando variáveis
+
+nome = 'Seu Nome' 
+sobrenome = 'Seu Sobrenome'
+idade = 00
+ano_de_nascimento = 0000 
+maior_de_idade = 00 >= 00 
+altura_em_metros = 0.00
+
+# Imprimindo variáveis criadas com função print
+
+print(nome)
+print(sobrenome)
+print(idade)
+print(ano_de_nascimento)
+print(maior_de_idade)
+print(altura_em_metros)
+
