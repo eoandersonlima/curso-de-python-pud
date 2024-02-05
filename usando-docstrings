@@ -1,0 +1,12 @@
+"""
+Este é um script de exemplo.
+
+Ele realiza algumas operações simples.
+"""
+
+# Exemplo de código que utiliza uma docstring fora de uma função
+numero1 = 10
+numero2 = 5
+
+# Operação de soma
+soma = numero1 + numero2
