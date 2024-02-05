@@ -1,0 +1,4 @@
+# Pedindo ao usuário para digitar algo
+nome = input("Digite seu nome: ")
+
+print("Oi," + ' ' + nome + "!") 

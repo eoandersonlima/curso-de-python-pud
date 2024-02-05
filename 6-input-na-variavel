@@ -1,5 +1,0 @@
-# Pedindo ao usuário para digitar algo
-nome = input("Digite seu nome: ")
-
-# Exibindo o que foi digitado
-print(f"Olá {nome}, bem-vindo(a) ao curso de Python da Plataforma Urbana Digital!")
