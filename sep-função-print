@@ -1,0 +1,7 @@
+# 1. Crie três variáveis com palavras ou frases.
+palavra1 = "Olá"
+palavra2 = "mundo"
+palavra3 = "!"
+
+# 2. Use a função print para exibir as palavras separadas por um caractere específico.
+print(palavra1, palavra2, palavra3, sep="-")
