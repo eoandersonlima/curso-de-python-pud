@@ -1,0 +1,4 @@
+string1 = "Olá"
+string2 = "Mundo"
+concatenacao = string1 + ' ' + string2
+print(concatenacao)
