@@ -1,0 +1,10 @@
+entrada = input('Digite seu usuário: ')
+senha_digitada = input('Senha: ')
+
+senha_permitida = '123456'
+
+if entrada == 'andersonlima' and senha_digitada == senha_permitida:
+    print('Você entrou no SAPNIT')
+
+else:
+    print('Usuário e Senha não localizado na base de dados')
