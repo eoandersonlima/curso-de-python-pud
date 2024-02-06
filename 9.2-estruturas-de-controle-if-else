@@ -1,0 +1,11 @@
+entrada = input('Digite seu usuário: ')
+senha_digitada = input('Senha: ')
+
+senha_permitida = '123456'
+usuario_permitido = 'andersonlima'  # and 'mais alguém'
+
+if entrada == usuario_permitido and senha_digitada == senha_permitida:
+    print('Você entrou no sistema')
+
+else:
+    print('Usuário ou senha incorretos')
