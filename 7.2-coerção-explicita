@@ -1,0 +1,5 @@
+numero_ponto_flutuante = 3.14
+# Coerção implícita, a parte decimal é truncada
+numero_inteiro = int(numero_ponto_flutuante)
+
+print(numero_inteiro)
