@@ -1,0 +1,5 @@
+numero_texto = "123"
+# Coerção explícita de string para inteiro
+numero_inteiro = int(numero_texto)
+
+print(numero_inteiro)
