@@ -1,0 +1,6 @@
+nome = 'Fulano de Tal'
+idade = 99
+
+# Método format() 
+mensagem = 'Olá, {}! Você tem {} anos.'.format(nome, idade)
+print(mensagem)
