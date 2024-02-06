@@ -1,0 +1,9 @@
+# Solicita ao usuário que digite o nome
+Nome_digitado = input('Digite seu nome: ')
+
+# Define a função de saudação
+def saudacao(Nome_digitado):
+  print(f"Olá, {Nome_digitado}! Seja bem-vindo(a) à Plataforma Urbana Digital!")
+
+# Chama a função de saudação passando o nome digitado
+saudacao(Nome_digitado)
