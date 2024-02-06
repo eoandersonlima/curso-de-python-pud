@@ -1,0 +1,7 @@
+inteiro = 5
+ponto_flutuante = 2.5
+
+# O inteiro é implicitamente convertido para ponto flutuante
+resultado = inteiro + ponto_flutuante
+
+print(resultado)
