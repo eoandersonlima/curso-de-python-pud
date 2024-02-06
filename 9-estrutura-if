@@ -1,0 +1,7 @@
+#if condição:
+# Bloco de código a ser executado se a condição for verdadeira
+# Pode conter uma ou mais instruções
+
+idade = 18
+if idade >= 18:
+  print('Você é maior de idade.')
