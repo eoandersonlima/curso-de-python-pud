@@ -1,0 +1,6 @@
+nome = "Alice"
+idade = 25
+
+# F-string
+mensagem = f"Olá, {nome}! Você tem {idade} anos."
+print(mensagem)
