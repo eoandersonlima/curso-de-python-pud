@@ -1,0 +1,2 @@
+numero = input("Digite um número: ")
+print("Você digitou:", numero)
