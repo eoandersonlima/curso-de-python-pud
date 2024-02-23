@@ -1,0 +1,7 @@
+primeiro_numero = input('digite um número: ')
+segundo_numero = input('digite outro número: ')
+
+input_um = primeiro_numero
+input_dois = segundo_numero
+concatenacao = input_um + input_dois
+print(concatenacao)
