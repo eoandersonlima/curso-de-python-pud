@@ -1,0 +1,7 @@
+parte1 = "Python"
+parte2 = "é"
+parte3 = "uma"
+parte4 = "linguagem"
+parte5 = "poderosa."
+mensagem = parte1 + " " + parte2 + " " + parte3 + " " + parte4 + " " + parte5
+print(mensagem)
