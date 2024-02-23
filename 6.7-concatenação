@@ -1,0 +1,16 @@
+idade = "25"
+mensagem = "Eu tenho " + idade + " anos."
+print(mensagem)
+
+
+
+
+
+
+
+
+
+
+
+
+
