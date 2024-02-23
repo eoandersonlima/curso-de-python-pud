@@ -1,0 +1,4 @@
+nome = "Maria"
+ocupacao = "programadora"
+frase = "Meu nome é " + nome + " e eu sou " + ocupacao + "."
+print(frase)
